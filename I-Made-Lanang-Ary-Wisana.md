@@ -17,20 +17,20 @@ Thank you for being a part of the Ko+Lab Internship Program! Please fill out the
 
 ## Education
 
-- University/School: [Name of your university or school]
-- Degree/Program: [Name of your degree or program]
-- Expected Graduation Date: [Your expected graduation date]
+- University/School: Telkom University.
+- Degree/Program: Applied Science in Information System.
+- Expected Graduation Date: 2025.
 
 ## Experience
 
-- Previous Internship Experience: [Yes/No]
+- Previous Internship Experience: No.
 - If yes, please provide details: [List your previous internship experience, including the name of the company, your role, and the duration of the internship]
 
 ## Skills
 
-- Programming Languages: [List any programming languages you are proficient in]
-- Tools/Frameworks: [List any tools or frameworks you have experience using]
-- Other Skills: [List any other skills or experience that you think are relevant]
+- Programming Languages: Python, SQl
+- Tools/Frameworks: -
+- Other Skills: -
 
 ## Projects
 
