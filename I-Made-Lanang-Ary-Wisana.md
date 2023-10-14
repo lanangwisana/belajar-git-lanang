@@ -10,9 +10,9 @@ Thank you for being a part of the Ko+Lab Internship Program! Please fill out the
 
 ## Personal Information
 
-- Name: [Your full name]
-- Email: [Your email address]
-- Github: [Your github username]
+- Name: I Made Lanang Ary Wisana
+- Email: lanangwisana@gmail.com
+- Github: lanangwisana@gmail.com
 - Social Media: [Your full address]
 
 ## Education
